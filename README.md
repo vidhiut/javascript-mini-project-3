@@ -9,4 +9,4 @@ the colored square element lags behind the mouse cursor, only catching up and fo
 #in this mini project i learned 
 1.event listern-->mousemove event
 2.gsap framework-->utils-mapRange function for animation in js
-3.
+3.horizontal animation of div with gsap-->css left property  
